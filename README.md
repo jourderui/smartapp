@@ -1,0 +1,1 @@
+# [SMARTAPP](https://github.com/ryoenji/smartapp) - Example
